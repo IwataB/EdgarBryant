@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // Kappa
+        // Kappa Kappa Kappa Kappa Kappa Kappa Kamehame-Fus-Ro-Doge
         ?>
     </body>
 </html>
